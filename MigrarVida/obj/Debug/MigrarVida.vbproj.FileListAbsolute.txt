@@ -1,0 +1,13 @@
+C:\Publico\Migrar\MigrarVida\bin\Debug\MigrarVida.exe.config
+C:\Publico\Migrar\MigrarVida\bin\Debug\MigrarVida.exe
+C:\Publico\Migrar\MigrarVida\bin\Debug\MigrarVida.pdb
+C:\Publico\Migrar\MigrarVida\bin\Debug\MigrarVida.xml
+C:\Publico\Migrar\MigrarVida\obj\Debug\MigrarVida.vbprojAssemblyReference.cache
+C:\Publico\Migrar\MigrarVida\obj\Debug\MigrarVida.Form1.resources
+C:\Publico\Migrar\MigrarVida\obj\Debug\MigrarVida.Resources.resources
+C:\Publico\Migrar\MigrarVida\obj\Debug\MigrarVida.vbproj.GenerateResource.cache
+C:\Publico\Migrar\MigrarVida\obj\Debug\MigrarVida.exe
+C:\Publico\Migrar\MigrarVida\obj\Debug\MigrarVida.xml
+C:\Publico\Migrar\MigrarVida\obj\Debug\MigrarVida.pdb
+C:\Publico\Migrar\MigrarVida\obj\Debug\MigrarVida.vbproj.ResolveComReference.cache
+C:\Publico\Migrar\MigrarVida\obj\Debug\MigrarVida.FGrid.resources
